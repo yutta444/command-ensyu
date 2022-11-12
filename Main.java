@@ -7,7 +7,7 @@ public class Main{
                 height = s.nextDouble();
                 System.out.print("１人目の体重:");
                 weight = s.nextDouble();
-		iSystem.out.print("２人目の身長:");
+		System.out.print("２人目の身長:");
                 height2 = s.nextDouble();
                 System.out.print("２人目の体重:");
                 weight2 = s.nextDouble();
